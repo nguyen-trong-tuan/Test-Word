@@ -3,6 +3,10 @@ them mot dong vao test1
 
 
 them dong linh tinh vao day, dong nay la do mot ai do them vao ma khong bao cho minh biet
+<<<<<<< HEAD
 
 them dong xung dot, sau khi da pull ve va chinh sua
 //them mot dong
+=======
+//xoa di mot dong
+>>>>>>> 7a2a98a64687fa1f6afc48be8c72d02b48da70c5
