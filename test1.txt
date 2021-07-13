@@ -1,5 +1,7 @@
 note1
 them mot dong vao test1
-them dong xung dot
+
 
 them dong linh tinh vao day, dong nay la do mot ai do them vao ma khong bao cho minh biet
+
+them dong xung dot, sau khi da pull ve va chinh sua
