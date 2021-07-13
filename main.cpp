@@ -72,5 +72,7 @@ int main(){
     
     //As the stack is empty , further popping will show an underflow condition.
     Pop();  
+	//day la cho ma minh da cmt them vao o tren git de thuc hanh
 	getch();
+	
 }
